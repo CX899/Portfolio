@@ -6,7 +6,6 @@
 		"name": "Colin Xiong",
 		"email": "xiong.colin899@gmail.com"
 	},
-	"homepage": "https://cx899.github.io/portfolio",
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^6.4.0",
 		"@fortawesome/free-brands-svg-icons": "^6.4.0",
