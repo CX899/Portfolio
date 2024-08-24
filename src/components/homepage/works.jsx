@@ -15,11 +15,11 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="./bell.png"
-								alt="bell"
+								src="./cisco.png"
+								alt="cisco"
 								className="work-image"
 							/>
-							<div className="work-title">Bell</div>
+							<div className="work-title">Cisco</div>
 							<div className="work-subtitle">
 								Software Engineer Intern
 							</div>
@@ -28,11 +28,11 @@ const Works = () => {
 
 						<div className="work">
 							<img
-								src="./cisco.png"
-								alt="cisco"
+								src="./bell.png"
+								alt="bell"
 								className="work-image"
 							/>
-							<div className="work-title">Cisco</div>
+							<div className="work-title">Bell</div>
 							<div className="work-subtitle">
 								Software Engineer Intern
 							</div>

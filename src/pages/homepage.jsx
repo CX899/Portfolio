@@ -14,6 +14,7 @@ import Footer from "../components/common/footer";
 import NavBar from "../components/common/navBar";
 import Works from "../components/homepage/works";
 import AllProjects from "../components/projects/allProjects";
+import homepageImage from "../assets/homepage.jpeg";
 
 import INFO from "../data/user";
 import SEO from "../data/seo";
@@ -101,7 +102,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<img
-											src="homepage.jpeg"
+											src={homepageImage}
 											alt="about"
 											className="homepage-image"
 										/>
