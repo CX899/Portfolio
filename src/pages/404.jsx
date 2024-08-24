@@ -32,7 +32,7 @@ const Notfound = () => {
 							</div>
 							<div className="not-found-message">
 								We can't seem to find the page you're looking
-								for.
+								for. Why is this happening???
 								<br />
 								The requested URL "{window.location.href}" was
 								not found on this server.
