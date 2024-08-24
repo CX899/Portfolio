@@ -1,5 +1,7 @@
 import React from "react";
 import { faBriefcase } from "@fortawesome/free-solid-svg-icons";
+import bellImage from "../../assets/bell.png";
+import ciscoImage from "../../assets/cisco.png";
 
 import Card from "../common/card";
 
@@ -15,7 +17,7 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work">
 							<img
-								src="./cisco.png"
+								src={ ciscoImage }
 								alt="cisco"
 								className="work-image"
 							/>
@@ -28,7 +30,7 @@ const Works = () => {
 
 						<div className="work">
 							<img
-								src="./bell.png"
+								src={ bellImage }
 								alt="bell"
 								className="work-image"
 							/>
